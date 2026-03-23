@@ -1,3 +1,8 @@
+## Nos Réseaux :
+- [![Discord](https://img.shields.io/discord/1329044327149731851)](https://discord.gg/FcxvfGGKtt)
+- [YouTube](https://www.youtube.com/@floodfield_studios)
+- [GitHub](https://github.com/Floodfield-Sudio/)
+
 ## Nos Projets :
 Voici se que nous avons fait,
 - [App Dev Studio](https://floodfield-sudio.github.io/Dev-Studio/)
